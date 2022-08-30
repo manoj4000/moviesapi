@@ -4,8 +4,8 @@ from pydantic import BaseModel
 from Movie import Movie
 
 
-mydb = mysql.connector.connect(host="sql212.epizy.com",user="epiz_32235227",
-password="RhbU3FJ5JcaLk",database="epiz_32235227_DATA")
+mydb = mysql.connector.connect(host="ec2-44-205-63-142.compute-1.amazonaws.com",user="vefahbjsxzdjcf",
+password="398ad9150ec21d1212851b721d0d76f529407299cc0c9d3fcdc29cb8c0c304f8",database="df8m401gtksd39")
 
 mycursor = mydb.cursor()
 

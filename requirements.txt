@@ -1,0 +1,11 @@
+﻿anyio==3.6.1
+fastapi==0.81.0
+idna==3.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.30
+protobuf==3.20.1
+pydantic==1.9.2
+sniffio==1.2.0
+starlette==0.19.1
+typing_extensions==4.3.0
+unicorn==2.0.0
